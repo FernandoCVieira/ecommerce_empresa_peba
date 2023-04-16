@@ -1,4 +1,4 @@
-# ecommerce_empresa_peba
-Este é um e-commercer para a empresa Peba, feito em PHP e MySQL.
-
-# Teste
+# E-commercer empresa Peba
+Vamos criar um e-commercer, para empresa peba e blabla
+## Funcionalidades:
+Checkout, Tela do Produto, Catálogo, Home com banner
