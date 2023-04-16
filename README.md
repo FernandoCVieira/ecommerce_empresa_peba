@@ -46,3 +46,10 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+## Listas de Tarefas a fazer
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus primeira compra
+- [ x ] CSS do rodapé
